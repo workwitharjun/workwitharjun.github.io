@@ -1,0 +1,51 @@
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Josefin+Sans:wght@100;500&family=Oswald&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mate+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fugaz+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Tapestry&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@1,600&display=swap');
+
+
+:root{
+
+    --black: #101820FF;
+    --yellow: #FEE715FF;
+    /* --db: #1e3859; */
+
+    --f1: 'Dancing Script', cursive;
+    --f2: 'Josefin Sans', sans-serif;
+    --f3: 'Oswald', sans-serif;  
+    --f4: 'Cormorant Garamond', serif;  
+    --f5: 'Merienda', cursive;
+    --f6: 'Mate SC', serif;
+    --f7: 'Fugaz One', cursive;
+    --f8: 'Sorts Mill Goudy', serif;
+    --f9: 'Bangers', cursive;
+    --f10: 'Tapestry', cursive;
+    --f11: 'Kanit', sans-serif;
+}
+
+
+
+.u-all-heading{
+    font-family: var(--f8);
+    border-bottom: 3px solid rgb(255, 255, 0);
+    display: table;
+    margin: auto;
+    padding: 1rem 1rem;
+    
+    
+}
+
+/* font-size: 10px; */
+
+
+
